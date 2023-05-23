@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T14:16:22.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3k5GoOrHvEYzpT-9YtkI" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T14:47:35.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GM1qYgLBOuD-fEo7WWZt" version="21.2.3" type="github">
   <diagram name="Page-1" id="ed3LDIdUd3-jLxdzLCWA">
     <mxGraphModel dx="1290" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XNffQYH5VyazZpHNx43d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XNffQYH5VyazZpHNx43d-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Responsible AI&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="205" width="115" height="115" as="geometry" />
+          <mxGeometry x="352.5" y="205" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="XNffQYH5VyazZpHNx43d-2" value="Forecast and monitor the business ROI of AI project&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="30" width="108" height="108" as="geometry" />
+          <mxGeometry x="432" y="10" width="108" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-4" value="Business&lt;br&gt;&amp;nbsp;Impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="450" y="148" width="70" height="40" as="geometry" />
+        <mxCell id="XNffQYH5VyazZpHNx43d-4" value="Business&lt;br&gt;&amp;nbsp;Impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XNffQYH5VyazZpHNx43d-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ensuring AI systems meet relevant law and regulatory requirements(GDOR,&lt;br&gt;CCPA,FCRA,ECOA etc)&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="35" width="170" height="170" as="geometry" />
@@ -22,11 +19,11 @@
         <mxCell id="XNffQYH5VyazZpHNx43d-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Defined process for another individual/team to perform validation tests, before&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="590" y="280" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-9" value="End User&lt;br&gt;&amp;amp; Societal &lt;br&gt;Impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="540" y="180" width="80" height="60" as="geometry" />
+        <mxCell id="XNffQYH5VyazZpHNx43d-9" value="End User&lt;br&gt;&amp;amp; Societal &lt;br&gt;Impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNffQYH5VyazZpHNx43d-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;A response and escalation plan, in case an issue occurs in production&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="385" y="380" width="135" height="135" as="geometry" />
+          <mxGeometry x="400" y="383" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="XNffQYH5VyazZpHNx43d-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.231;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,13 +31,13 @@
             <mxPoint x="560" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.026;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XNffQYH5VyazZpHNx43d-5">
+        <mxCell id="XNffQYH5VyazZpHNx43d-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.026;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="230" as="sourcePoint" />
             <mxPoint x="540" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.604;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XNffQYH5VyazZpHNx43d-10">
+        <mxCell id="XNffQYH5VyazZpHNx43d-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.604;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.73;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="320" as="sourcePoint" />
             <mxPoint x="490" y="270" as="targetPoint" />
@@ -52,17 +49,59 @@
         <mxCell id="XNffQYH5VyazZpHNx43d-16" value="Incident&lt;br&gt;Planning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="343" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="370" width="100" height="100" as="geometry" />
+        <mxCell id="XNffQYH5VyazZpHNx43d-17" value="Overall model and process lineage, along with a defined owner for each stage in the life cycle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="223" width="80" height="80" as="geometry" />
+        <mxCell id="XNffQYH5VyazZpHNx43d-18" value="Secure models, resilient to ethical attacks, and privacy-preserving." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="68" width="80" height="80" as="geometry" />
+        <mxCell id="XNffQYH5VyazZpHNx43d-19" value="Explainable predictions, fostering human understanding of model reasoning." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="78" y="35" width="122" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="XNffQYH5VyazZpHNx43d-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="50" width="80" height="80" as="geometry" />
+        <mxCell id="XNffQYH5VyazZpHNx43d-20" value="Forecast &amp;amp; monitor the business ROI of AI project" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.3;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XNffQYH5VyazZpHNx43d-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="210" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.368;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="220" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.984;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.027;exitY=0.223;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.027;exitY=0.626;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.083;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNffQYH5VyazZpHNx43d-1" target="XNffQYH5VyazZpHNx43d-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-26" value="Business&lt;br&gt;Impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="123" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-27" value="Interpretable &amp;amp; &lt;br&gt;XAI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="157" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-28" value="Secure, Robust, &lt;br&gt;Private AI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="263" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNffQYH5VyazZpHNx43d-29" value="Auditable &amp;amp; &lt;br&gt;Accountable AI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="335" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
